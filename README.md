@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gavicus
 - 👀 I’m interested in React, NodeJS and Typescript
-- 🌱 I’m currently learning full stack development
 - 📫 How to reach me: my email address is gavinlowry@gmail.com
 
 <!---
